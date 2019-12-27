@@ -1,6 +1,3 @@
-
-package com.github.yepez1997.kafka.tutorial1;
-
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;

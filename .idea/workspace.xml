@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a652b4e-50e5-47f9-8700-38434163ef0c" name="Default Changelist" comment="" />
+    <list default="true" id="1a652b4e-50e5-47f9-8700-38434163ef0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroKafka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KafkaConsumerElasticSearch/KafkaConsumerElasticSearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KafkaConsumerElasticSearch/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KafkaConsumerElasticSearch/src/main/java/com/github/yepez1997/kafka/tutorial3/ElasticSearchConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwitterKafka/TwitterKafka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwitterKafka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwitterKafka/src/main/java/TwitterProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yepez1997/kafka/tutorial1/ConsumerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntroKafka/src/main/java/ConsumerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yepez1997/kafka/tutorial1/ConsumerDemoAssignSeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntroKafka/src/main/java/ConsumerDemoAssignSeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yepez1997/kafka/tutorial1/ConsumerDemoGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntroKafka/src/main/java/ConsumerDemoGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yepez1997/kafka/tutorial1/ConsumerDemoWithThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntroKafka/src/main/java/ConsumerDemoWithThreads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yepez1997/kafka/tutorial1/ProducerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntroKafka/src/main/java/ProducerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yepez1997/kafka/tutorial1/ProducerDemoKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntroKafka/src/main/java/ProducerDemoKeys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yepez1997/kafka/tutorial1/ProducerDemoWithCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntroKafka/src/main/java/ProducerDemoWithCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/yepez1997/kafka/tutorial1/ConsumerDemoAssignSeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/yepez1997/kafka/tutorial1/ConsumerDemoAssignSeek.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +34,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VVs8jandfVOb7BEvJMjhO0ubKs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +46,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BasicsKafka" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -29,11 +55,23 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BasicsKafka" />
+      <recent name="$PROJECT_DIR$/BasicsKafka/src/main/java" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.github.yepez1997.kafka.tutorial1" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/IntroKafka/src/main/java" />
+      <recent name="$PROJECT_DIR$/BasicsKafka/src/main/java" />
+      <recent name="$PROJECT_DIR$/TwitterKafka/src/main/java" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ConsumerDemoAssignSeek">
+  <component name="RunManager" selected="Application.TwitterProducer">
     <configuration name="ConsumerDemoAssignSeek (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kafka.tutorial1.ConsumerDemoAssignSeek" />
       <module name="apache-kafka-tutorial" />
@@ -52,7 +90,7 @@
       <module name="apache-kafka-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.yepez1997.kafka.tutorial1.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,7 +103,7 @@
       <module name="apache-kafka-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.yepez1997.kafka.tutorial1.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,7 +116,7 @@
       <module name="apache-kafka-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.yepez1997.kafka.tutorial1.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProducerDemoKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.yepez1997.kafka.tutorial1.ProducerDemoKeys" />
+    <configuration name="TwitterProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.yepez1997.kafka.tutorial2.TwitterProducer" />
       <module name="apache-kafka-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.github.yepez1997.kafka.tutorial1.*" />
+          <option name="PATTERN" value="com.github.yepez1997.kafka.tutorial2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,18 +139,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ConsumerDemoGroup" />
-      <item itemvalue="Application.ProducerDemoKeys" />
       <item itemvalue="Application.ConsumerDemoWithThreads" />
       <item itemvalue="Application.ConsumerDemoAssignSeek" />
       <item itemvalue="Application.ConsumerDemoAssignSeek (1)" />
+      <item itemvalue="Application.TwitterProducer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwitterProducer" />
         <item itemvalue="Application.ConsumerDemoAssignSeek" />
         <item itemvalue="Application.ConsumerDemoAssignSeek (1)" />
         <item itemvalue="Application.ConsumerDemoWithThreads" />
         <item itemvalue="Application.ConsumerDemoGroup" />
-        <item itemvalue="Application.ProducerDemoKeys" />
       </list>
     </recent_temporary>
   </component>
@@ -150,25 +188,29 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="343" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1577406406870" />
-    <state width="1020" height="241" key="GridCell.Tab.0.bottom" timestamp="1577410873309">
+    <state x="162" y="390" width="549" height="278" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577440674714">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1020" height="241" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1577410873309" />
+    <state x="162" y="390" width="549" height="278" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1050@0.0.1680.1050" timestamp="1577440674714" />
+    <state width="979" height="241" key="GridCell.Tab.0.bottom" timestamp="1577425901488">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="979" height="241" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1577425901488" />
     <state width="958" height="245" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1577353255314" />
-    <state width="1020" height="241" key="GridCell.Tab.0.center" timestamp="1577410873308">
+    <state width="979" height="241" key="GridCell.Tab.0.center" timestamp="1577425901487">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1020" height="241" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1577410873308" />
+    <state width="979" height="241" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1577425901487" />
     <state width="958" height="245" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1577353255313" />
-    <state width="1020" height="241" key="GridCell.Tab.0.left" timestamp="1577410873307">
+    <state width="979" height="241" key="GridCell.Tab.0.left" timestamp="1577425901486">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1020" height="241" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1577410873307" />
+    <state width="979" height="241" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1577425901486" />
     <state width="958" height="245" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1577353255312" />
-    <state width="1020" height="241" key="GridCell.Tab.0.right" timestamp="1577410873309">
+    <state width="979" height="241" key="GridCell.Tab.0.right" timestamp="1577425901488">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1020" height="241" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1577410873309" />
+    <state width="979" height="241" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1577425901488" />
     <state width="958" height="245" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1577353255313" />
     <state x="328" y="68" key="SettingsEditor" timestamp="1577401791848">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -179,5 +221,9 @@
       <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state x="519" y="336" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1577349443509" />
+    <state x="0" y="221" key="new project wizard" timestamp="1577488361695">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="0" y="221" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1577488361695" />
   </component>
 </project>
