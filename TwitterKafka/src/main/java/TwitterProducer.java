@@ -20,7 +20,8 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.TimeUnit;
 
 
-// message compression w/ proto buffers ?
+// message compression w/
+// avro for schemas registry
 
 
 public class TwitterProducer {
@@ -34,6 +35,7 @@ public class TwitterProducer {
 
     }
 
+    // create a twitter producer ...
     public static void main(String[] args) {
         new TwitterProducer().run();
     }
@@ -57,7 +59,7 @@ public class TwitterProducer {
         }));
 
 
-        // on a different thread, or multiple different threads....
+        // on a different thread, or multiple different threads
         while (!client.isDone()) {
             String msg = null;
             try {
@@ -83,6 +85,7 @@ public class TwitterProducer {
 
     }
 
+    // create a twitter client ...
     public Client createTwitterClient(BlockingQueue<String> msgQueue ) {
 
         Hosts hosebirdHosts = new HttpHosts(Constants.STREAM_HOST);
@@ -111,7 +114,7 @@ public class TwitterProducer {
         return hosebirdClient;
     }
 
-    // createKafkaProducer - create a kafka producer
+    // createKafkaProducer - create a kafka producer ... -> kafka producer source
     public KafkaProducer<String, String> createKafkaProducer() {
         Properties properties = new Properties();
         String kafkaIP = "127.0.0.1:9092";
@@ -131,6 +134,7 @@ public class TwitterProducer {
         properties.setProperty(ProducerConfig.BATCH_SIZE_CONFIG, Integer.toString(32 *  1024)); // 32 kb batch size
 
 
+        // create a kafka producer
         KafkaProducer<String, String> producer = new KafkaProducer<String, String>(properties);
         return producer;
     }

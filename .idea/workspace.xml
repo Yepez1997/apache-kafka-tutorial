@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a652b4e-50e5-47f9-8700-38434163ef0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroKafka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KafkaConsumerElasticSearch/KafkaConsumerElasticSearch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KafkaConsumerElasticSearch/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KafkaConsumerElasticSearch/src/main/java/com/github/yepez1997/kafka/tutorial3/ElasticSearchConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwitterKafka/TwitterKafka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwitterKafka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwitterKafka/src/main/java/TwitterProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yepez1997/kafka/tutorial1/ConsumerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntroKafka/src/main/java/ConsumerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yepez1997/kafka/tutorial1/ConsumerDemoAssignSeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntroKafka/src/main/java/ConsumerDemoAssignSeek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yepez1997/kafka/tutorial1/ConsumerDemoGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntroKafka/src/main/java/ConsumerDemoGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yepez1997/kafka/tutorial1/ConsumerDemoWithThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntroKafka/src/main/java/ConsumerDemoWithThreads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yepez1997/kafka/tutorial1/ProducerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntroKafka/src/main/java/ProducerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yepez1997/kafka/tutorial1/ProducerDemoKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntroKafka/src/main/java/ProducerDemoKeys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/yepez1997/kafka/tutorial1/ProducerDemoWithCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntroKafka/src/main/java/ProducerDemoWithCallback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/github/yepez1997/kafka/tutorial1/ConsumerDemoAssignSeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/yepez1997/kafka/tutorial1/ConsumerDemoAssignSeek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TwitterKafka/src/main/java/TwitterProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/TwitterKafka/src/main/java/TwitterProducer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,25 +175,25 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="162" y="390" width="549" height="278" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1050@0.0.1680.1050" timestamp="1577440674714" />
-    <state width="979" height="241" key="GridCell.Tab.0.bottom" timestamp="1577425901488">
+    <state width="1638" height="241" key="GridCell.Tab.0.bottom" timestamp="1577816311188">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="979" height="241" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1577425901488" />
+    <state width="1638" height="241" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1577816311188" />
     <state width="958" height="245" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1577353255314" />
-    <state width="979" height="241" key="GridCell.Tab.0.center" timestamp="1577425901487">
+    <state width="1638" height="241" key="GridCell.Tab.0.center" timestamp="1577816311184">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="979" height="241" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1577425901487" />
+    <state width="1638" height="241" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1577816311184" />
     <state width="958" height="245" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1577353255313" />
-    <state width="979" height="241" key="GridCell.Tab.0.left" timestamp="1577425901486">
+    <state width="1638" height="241" key="GridCell.Tab.0.left" timestamp="1577816311177">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="979" height="241" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1577425901486" />
+    <state width="1638" height="241" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1577816311176" />
     <state width="958" height="245" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1577353255312" />
-    <state width="979" height="241" key="GridCell.Tab.0.right" timestamp="1577425901488">
+    <state width="1638" height="241" key="GridCell.Tab.0.right" timestamp="1577816311186">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="979" height="241" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1577425901488" />
+    <state width="1638" height="241" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1577816311186" />
     <state width="958" height="245" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1577353255313" />
     <state x="328" y="68" key="SettingsEditor" timestamp="1577401791848">
       <screen x="0" y="0" width="1680" height="1050" />
